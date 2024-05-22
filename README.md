@@ -1,13 +1,13 @@
 # ImagineCar
 
 
-ImagineCar - project by team Sick&Magical Ideas.
-VR driving lessons simulator.
-It is implemented on the basis of Nizhny Novgorod State University by students.
+ImagineCar - project by team Sick&Magical Ideas. /
+VR driving lessons simulator. /
+It is implemented on the basis of Nizhny Novgorod State University by students. /
 
-ImagineCar - проект команды Sick&Magical Ideas.
-VR симулятор уроков вождения.
-Реализуется на базе ННГУ студентами.
+ImagineCar - проект команды Sick&Magical Ideas. /
+VR симулятор уроков вождения. /
+Реализуется на базе ННГУ студентами. /
 
 ---
 #### Участникам репозитория
